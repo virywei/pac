@@ -1,0 +1,13 @@
+{
+    "name": "virywei/pac",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "viry",
+            "email": "wgguizi@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
